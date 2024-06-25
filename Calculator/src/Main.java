@@ -10,7 +10,7 @@ public class Main {
     {return (x*y);}
 
     public static int div(int x,int y)////emp2 should work here
-    {return (x/y);}
+    {return x/y;}
 
 
     public static void main(String[] args)//tester should test code here!
