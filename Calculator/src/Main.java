@@ -15,6 +15,9 @@ public class Main {
 
     public static void main(String[] args)//tester should test code here!
     {
-
+        System.out.println(add(5,6));
+        System.out.println(sub(5,6));
+        System.out.println(mul(5,6));
+        System.out.println(div(5,6));
     }
 }
